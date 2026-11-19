@@ -5,7 +5,7 @@ When authoring or editing files in this directory, follow these standards.
 ## GDD Files (`design/gdd/`)
 
 The 8 GDD sections, in order:
-1. Overview — one-paragraph summary
+1. abebeb beso bela
 2. Player Fantasy — intended feeling and experience
 3. Detailed Rules — unambiguous mechanics
 4. Formulas — all math defined with variables
